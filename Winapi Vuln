@@ -1,0 +1,2 @@
+IOControlDevice ->  IoCreateDevice routine creates a device object for use by a driver
+vulres: DeviceCharacteristics option is set to 0 by dev then any non-admin user can obtain handle to the driver
